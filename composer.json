@@ -1,0 +1,22 @@
+{
+    "name" : "Package/CO2_emission",
+    "require" : {
+        "click/site-packages" : "7.1.2",
+        "Flask/site-packages" : "1.1.2",
+        "itsdangerous/site-packages" : "1.1.0",
+        "Jinja2/site-packages" : "2.11.2",
+        "joblib/site-packages" : "0.17.0",
+        "MarkupSafe/site-packages" : "1.1.1",
+        "numpy/site-packages" : "1.19.2",
+        "scikit-learn/site-packages" : "0.23.2",
+        "scipy/site-packages" : "1.5.2",
+        "threadpoolctl/site-packages" : "2.1.0",
+        "Werkzeug/site-packages" : "1.0.1",
+        "requests/site-packages": "*",
+        "pandas/site-packages" : "*",
+        "simplejson/site-packages" :"*"
+    }
+
+    
+    
+}
